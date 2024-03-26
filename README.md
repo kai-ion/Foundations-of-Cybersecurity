@@ -7,3 +7,9 @@
 ## Module 3: Protect against threats, risks, and vulnerabilities
 
 ## Module 4: Cybersecurity tools and programming languages
+
+<br>
+
+# Proof of Completion
+
+<img src="./certificate.png" width=800>
